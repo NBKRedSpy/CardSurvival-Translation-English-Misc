@@ -1,0 +1,7 @@
+Description:
+1. Add a sweeping robot
+2. Add a simple fish pond: it can be transformed through tidal pools, reservoirs, and ponds
+
+Body:
+1. Add a sweeping robot
+2. Add a simple fish pond: it can be transformed through tidal pools, reservoirs, and ponds
