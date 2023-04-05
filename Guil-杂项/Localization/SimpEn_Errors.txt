@@ -1,0 +1,75 @@
+---- Warnings -----
+New Keys Created.  JSON was updated.
+
+	New Key: "translate-772af2a8-e371-44c6-a406-38154229edd0"
+	Text: 一个扫地机器人
+
+	File: .\CardData\扫地机器人-蓝图.json
+	JSON Path: CardDescription
+
+	New Key: "translate-fffd5979-8a49-498c-bcd3-216c4e10b756"
+	Text: 扫地机器人
+
+	File: .\CardData\扫地机器人-蓝图.json
+	JSON Path: CardName
+
+	File: .\CardData\扫地机器人.json
+	JSON Path: CardName
+
+	New Key: "translate-6110fc7b-4758-4346-9cff-75d930098c47"
+	Text: 一个扫地机器人，可以自动扫除环境的脏污。
+
+	File: .\CardData\扫地机器人.json
+	JSON Path: CardDescription
+
+	New Key: "translate-5322a4dc-dcd4-45d9-87fd-56bc84d1683a"
+	Text: 改造的潮汐池
+
+	File: .\CardData\潮汐池-改造.json
+	JSON Path: CardName
+
+	New Key: "translate-70ebb701-c4f1-4a77-aae4-250098a52f34"
+	Text: 一个简易的鱼塘，我可以在这里插鱼、钓鱼。
+
+	File: .\CardData\简易鱼塘-蓄水池.json
+	JSON Path: CardDescription
+
+	File: .\CardData\简易鱼塘.json
+	JSON Path: CardDescription
+
+	New Key: "translate-4a436cc3-aba6-491b-a62c-d2371d5b60e6"
+	Text: 简易鱼塘
+
+	File: .\CardData\简易鱼塘-蓄水池.json
+	JSON Path: CardName
+
+	File: .\CardData\简易鱼塘.json
+	JSON Path: CardName
+
+	New Key: "translate-a4edf9e7-6420-4b39-9d24-2c665561a91d"
+	Text: 不养了
+
+	File: .\CardData\简易鱼塘-蓄水池.json
+	JSON Path: DismantleActions[0].ActionName
+
+	File: .\CardData\简易鱼塘.json
+	JSON Path: DismantleActions[0].ActionName
+
+	New Key: "translate-e1e47dd2-711d-449f-875d-321b0942d923"
+	Text: 养鱼
+
+	File: .\GameSourceModify\水池改鱼塘\fd31819b0f27db44d840aa4c0bf6bb8e.json
+	JSON Path: DismantleActionsWarpData[0].ActionName
+
+	File: .\GameSourceModify\蓄水池-改鱼塘\536f722edbb5e9e4b959b1f3ad25f648.json
+	JSON Path: DismantleActionsWarpData[0].ActionName
+
+	New Key: "translate-cbfa56c8-116d-4f6d-b56a-3625baf73353"
+	Text: 改造
+
+	File: .\GameSourceModify\潮汐池改造\3cfaf9d5169131044bd67406c307afe0.json
+	JSON Path: DismantleActionsWarpData[0].ActionName
+
+	File: .\GameSourceModify\潮汐池淹没改造\9f5fe822adb4c364e9cfd58c42c2c894.json
+	JSON Path: DismantleActionsWarpData[0].ActionName
+
